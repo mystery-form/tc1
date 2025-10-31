@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Various 'and', 'or', etc statements create different segments to illuminate from unique dip switch on/off configurations
 
 ## How to test
 
-Explain how to use your project
+TBD
 
 ## External hardware
 
